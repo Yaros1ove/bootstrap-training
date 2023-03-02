@@ -4,3 +4,4 @@
 https://shorturl.at/cjrsZб
 
 Ссылка на готовую сборку:
+https://yaros1ove.github.io/bootstrap-training/
